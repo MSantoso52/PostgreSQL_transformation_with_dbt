@@ -5,7 +5,7 @@ Demonstration of using the dbt (data build tool) framework to perform sophistica
 The final output is a transformed dataset, like the customerrevenue table shown in the example, which is typically used for Business Intelligence (BI) and reporting.
 
 # *Problem To Be Solved*
-* The project addresses the challenges associated with traditional data transformation (ELT) processes, which often suffer from:
+The project addresses the challenges associated with traditional data transformation (ELT) processes, which often suffer from:
 * Complexity and Maintenance: Transformation logic is typically scattered across unwieldy stored procedures, views, or custom scripts, making it hard to understand, debug, and update.
 * Lack of Quality Control: Traditional SQL transformation lacks built-in mechanisms for testing, documentation, and data quality checks, leading to unreliable data products
 * Poor Code Management: Transformations are often not version-controlled or modular, making collaboration difficult.
