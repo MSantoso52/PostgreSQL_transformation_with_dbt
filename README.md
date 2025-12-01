@@ -63,7 +63,7 @@ This project to demonstrate data transformation using dbt.
            11068 | Melissa Wilson MD |          5 |  493.47
     (10 rows)
     ```
-# *Asumption*
+# *Assumption*
 1. PostgreSQL run on system (recomended on docker)
    ```bash
    psql -U postgres -h 127.0.0.1 -p 5432
